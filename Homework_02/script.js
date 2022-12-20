@@ -20,7 +20,7 @@ function draw_graph()
     x++;
 }
 
-let canvas = document.getElementById("main_canvas");Homework_02/script.js
+let canvas = document.getElementById("main_canvas");
 let context = canvas.getContext("2d");
 var scale = 30;
 var graph_axis = 50;
